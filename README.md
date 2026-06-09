@@ -11,9 +11,9 @@ I'm an Earth Observation Scientist with a background in biology and sustainabili
 </p>
 
 # Skill Highlights
-**Earth Observation**: Wildfire Monitoring, Multispectral and Hyperspectral Data, Satellite Image Analysis, Synthetic Aperture Radar (SAR), Ecological Modeling.//
-**Geospatial Development**: Spatial Data Pipelines, Google Earth Engine, OpenEO, Zarr, GIS Analysis (QGIS, SNAP), Database Management.//
-**Data Science & ML**: Python (Rasterio, GDAL, GeoPandas, Xarray), PyTorch, TerraTorch, Scikit-learn, TensorFlow, Version Control (Git).//
+**Earth Observation**: Wildfire Monitoring, Multispectral and Hyperspectral Data, Satellite Image Analysis, Synthetic Aperture Radar (SAR), Ecological Modeling./n
+**Geospatial Development**: Spatial Data Pipelines, Google Earth Engine, OpenEO, Zarr, GIS Analysis (QGIS, SNAP), Database Management./n
+**Data Science & ML**: Python (Rasterio, GDAL, GeoPandas, Xarray), PyTorch, TerraTorch, Scikit-learn, TensorFlow, Version Control (Git)./n
 
 <img width="30" height="30" alt="googleearthengine" src="https://github.com/user-attachments/assets/f0a79770-c829-4df1-b940-85fbcfec56ae" />
 <img width="30" height="30" alt="gdal" src="https://github.com/user-attachments/assets/6c769aa1-d25d-4b65-8d2b-6e162c4f73b4" />
