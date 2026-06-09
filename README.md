@@ -1,4 +1,4 @@
-<img width="300" height="300" alt="googleearthengine" src="https://github.com/user-attachments/assets/f0a79770-c829-4df1-b940-85fbcfec56ae" /># Hi 👋
+# Hi 👋
 
 I'm an Earth Observation Scientist with a background in biology and sustainability, specializing in data science for wildfire risk and environmental monitoring using Python, R, GIS software, and cloud-based processing. 
 
@@ -6,7 +6,7 @@ I'm an Earth Observation Scientist with a background in biology and sustainabili
 **Earth Observation**: Wildfire Monitoring, Multispectral and Hyperspectral Data, Satellite Image Analysis, Synthetic Aperture Radar (SAR), Ecological Modeling.
 **Geospatial Development**: Spatial Data Pipelines, Google Earth Engine, OpenEO, Zarr, GIS Analysis (QGIS, SNAP), Database Management.
 **Data Science & ML**: Python (Rasterio, GDAL, GeoPandas, Xarray), PyTorch, TerraTorch, Scikit-learn, TensorFlow, Version Control (Git).
-
+<img width="300" height="300" alt="googleearthengine" src="https://github.com/user-attachments/assets/f0a79770-c829-4df1-b940-85fbcfec56ae" />
 ![Uploading goo<img width="300" height="300" alt="gdal" src="https://github.com/user-attachments/assets/6c769aa1-d25d-4b65-8d2b-6e162c4f73b4" /><img width="300" height="300" alt="python" src="https://github.com/user-attachments/assets/452cf8f1-1e3c-4a4d-b65c-2224ca17b739" />
 <img width="300" height="300" alt="jupyter" src="https://github.com/user-attachments/assets/a28dc7bc-c850-41b2-9ed1-da4520c3b68c" />
 <img width="300" height="300" alt="r" src="https://github.com/user-attachments/assets/492801b6-d71a-48bc-88ae-8e878b535ab8" />
