@@ -1,4 +1,22 @@
-## Hi there 👋
+<img width="300" height="300" alt="googleearthengine" src="https://github.com/user-attachments/assets/f0a79770-c829-4df1-b940-85fbcfec56ae" /># Hi 👋
+
+I'm an Earth Observation Scientist with a background in biology and sustainability, specializing in data science for wildfire risk and environmental monitoring using Python, R, GIS software, and cloud-based processing. 
+
+# Skill Highlights
+**Earth Observation**: Wildfire Monitoring, Multispectral and Hyperspectral Data, Satellite Image Analysis, Synthetic Aperture Radar (SAR), Ecological Modeling.
+**Geospatial Development**: Spatial Data Pipelines, Google Earth Engine, OpenEO, Zarr, GIS Analysis (QGIS, SNAP), Database Management.
+**Data Science & ML**: Python (Rasterio, GDAL, GeoPandas, Xarray), PyTorch, TerraTorch, Scikit-learn, TensorFlow, Version Control (Git).
+
+![Uploading goo<img width="300" height="300" alt="gdal" src="https://github.com/user-attachments/assets/6c769aa1-d25d-4b65-8d2b-6e162c4f73b4" /><img width="300" height="300" alt="python" src="https://github.com/user-attachments/assets/452cf8f1-1e3c-4a4d-b65c-2224ca17b739" />
+<img width="300" height="300" alt="jupyter" src="https://github.com/user-attachments/assets/a28dc7bc-c850-41b2-9ed1-da4520c3b68c" />
+<img width="300" height="300" alt="r" src="https://github.com/user-attachments/assets/492801b6-d71a-48bc-88ae-8e878b535ab8" />
+<img width="300" height="300" alt="quarto" src="https://github.com/user-attachments/assets/eaa97318-c86c-4d79-a554-8c58eaa259fc" />
+<img width="300" height="300" alt="latex" src="https://github.com/user-attachments/assets/cb318a6f-91a1-4cba-a21e-ab81eeabe139" />
+<img width="300" height="300" alt="postgresql" src="https://github.com/user-attachments/assets/c373a464-fc23-4236-945d-fc5d86f2a8c3" />
+<img width="300" height="300" alt="qgis" src="https://github.com/user-attachments/assets/b9aa18af-55c4-4d05-8f5b-85fbd3cb276a" />
+<img width="300" height="300" alt="geopandas" src="https://github.com/user-attachments/assets/1685f56d-9ff0-4f41-a364-9e8adcf1aa66" />
+<img width="300" height="300" alt="pandas" src="https://github.com/user-attachments/assets/bf876a54-45b9-4ecf-aee7-1418bb0d36b7" />
+gleearthengine.svg…]()
 
 <!--
 **Mnzeballos/Mnzeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
